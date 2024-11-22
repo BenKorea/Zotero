@@ -1,0 +1,5 @@
+.quarto-figure figcaption {
+  text-align: center; /* 캡션 가운데 정렬 */
+  margin-top: 1px; /* 그림과 캡션 사이 간격 */
+  font-style: italic; /* 선택 사항: 캡션 스타일 지정 */
+}
