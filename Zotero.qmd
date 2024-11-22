@@ -27,11 +27,18 @@ categories:
 
 ### Zotero connector 설치
 -   Zotero connector 설치완료 하면 웹 브라우저에 Zotero 아이콘이 생깁니다.
--   ![Zotero Icon](images/ZoteroIcon.PNG){#fig-ZoteroIcon fig-align="center"}
+![Zotero Icon](images/ZoteroIcon.PNG){#fig-ZoteroIcon fig-align="center"}
 
 ### ZotMoov extension  설치
 -   ZotMoov는 Zotero의 확장기능으로 첨부파일을 관리하는데 도움을 줍니다.
 -   이전에는 Zotfile 확장기능이 사용되었으나 Zotero 버전 7에서는 버전이 다르다는 오류메세지와 함께 설치가 되지 않습니다.
 -   개발자인 미국 버지니아대학에서는 Zotero 버전 7부터는 ZotMoov를 설치하도록 안내하고 있습니다. [https://guides.lib.virginia.edu/c.php?g=839370&p=9237762](https://guides.lib.virginia.edu/c.php?g=839370&p=9237762){target="_blank"}
--   Github 저장소 [https://github.com/wileyyugioh/zotmoov?tab=readme-ov-file](https://github.com/wileyyugioh/zotmoov?tab=readme-ov-file){target="_blank"}
+-   이들이 안내하는 Github 저장소는 다음과 같습니다. [https://github.com/wileyyugioh/zotmoov?tab=readme-ov-file](https://github.com/wileyyugioh/zotmoov?tab=readme-ov-file){target="_blank"}
+
+## 구글드라이브와 연동하기
+
+-   Zotero는 무료기능에서는 저장공간을 300MB까지만 제공하므로 부족하기 때문에 유료화를 선택하거나 ZotMoov를 이용하여 구글드라이브와 연동하여 사용해야 합니다.
+-   이 경우는 데스크탑과 노트북, 아이페트 등 여러컴퓨터에서 동일한 Zotero를 사용할 때 첨부파일을 동기화할 수 있어 큰 장점이 됩니다.
+-   ZotMoov의 `Directory to Move Files to`에 구글드라이브의 원하는 폴더를 지정하면 됩니다.
+-   이 때, Advanced Settings의 Linked Attachment Base Directory에도 동일한 경로를 지정해야 합니다.
 
